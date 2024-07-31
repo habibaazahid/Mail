@@ -1,0 +1,11 @@
+textarea {
+    min-height: 400px;
+}
+table{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapsed;
+}
+td, th, tr{
+    border: 1px solid black;
+}
